@@ -1,0 +1,101 @@
+p {
+  font-family: Poppins, Arial;
+}
+
+.logo {
+   display: flex;
+   flex: 1;
+}
+
+.signup-button {
+  color: white;
+  background-color: #988FFC;
+  font-size: 20px;
+  width: 88px;
+  height: 44px;
+  border-radius: 4px;
+  border: none;
+  }
+
+ .signup-button:hover {
+  background-color: rgb(61, 61, 114);
+  cursor: pointer;
+ } 
+ 
+  .features {
+    color: rgba(0, 0, 0, 0.7);
+    font-weight: 500;
+    margin-right: 30px;
+    font-size: 20px;
+  }
+
+  .features:hover {
+    color: rgb(67, 67, 239);
+    cursor: pointer;
+  }
+  
+
+  .header {
+    display: flex;
+    flex-direction: row;
+  }
+ 
+  .feature-box {
+    display: flex;
+    align-items: center;
+  }
+
+  .description {
+    display: flex;
+    align-items: center;
+    gap: 240px;
+    margin-top: 80px;
+  }
+
+  .text-box {
+    margin-left: 10px;
+  }
+
+  .dot1, .dot2, .dot3, .dot4, .star-six {
+    position: absolute;
+  }
+  
+ .dot1 {
+    top: 173px;
+    left: 76px;
+  }
+  
+  .dot2 {
+    top: 581px;
+    left: 575px;
+  }
+  
+  .dot3 {
+    top: 643px;
+    left: 1181px;
+  }
+  
+  .dot4 {
+    top: 300px;
+    left: 1490px;
+  } 
+
+  .star-six {
+    top: 65.88px;
+    left: 912.66px;
+    z-index: -1;
+  }
+
+  .full-star {
+    position: absolute;
+    top: 692.5px;
+    left: 125px;
+  }
+
+  .star-cut {
+    position: absolute;
+    width: 80px;
+    height: 120px;
+    top: 1815px;
+    right: 8px;
+  }

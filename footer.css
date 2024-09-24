@@ -1,0 +1,74 @@
+.footer-head {
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgba(152, 143, 252, 1);
+  cursor: pointer;
+}
+
+.enquiries {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+}
+
+.enquiries:hover {
+  text-decoration: underline;
+  font-size: 21px;
+}
+
+.enquiry-box {
+  display: flex;
+  align-items: center;
+  gap: 190px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.enquiry-box2 {
+  display: flex;
+  gap: 190px;
+}
+
+.helpbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.enquiry-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-dot1, .footer-dot2, .footer-dot3, .footer-dot4, .footer-dot5 {
+  position: absolute;
+}
+
+.footer-dot1 {
+  top: 5900px;
+  left: 110px;
+}
+
+.footer-dot2 {
+  top: 5800px;
+  left: 665px;
+}
+
+.footer-dot3 {
+  top: 5685px;
+  left: 1350px;
+}
+
+.footer-dot4 {
+  top: 5475px;
+  left: 30px;
+}
+
+.footer-dot5 {
+  top: 4690px;
+  left: 1465px;
+}

@@ -1,0 +1,77 @@
+.howitworks {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 700;
+  font-size: 32px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.pic-title {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+}
+
+.pic-description {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 400;
+  font-size: 20px;
+  width: 314px;
+  height: 160px;
+  text-align: center;
+}
+
+.picture-info {
+   display: flex;
+   flex-direction: column;
+}
+
+.icon-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  width: 314px;
+  height: 500px;
+}
+
+.icons {
+  border-top: solid;
+  border-top-color: rgba(0, 0, 0, 0.1);
+  object-fit: contain;
+  width: 314px;
+  height: 220px;
+}
+
+.icon-layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.full-star1 {
+  position: absolute;
+  top: 2630px;
+  left: 56px;
+}
+
+.dot7 {
+  position: absolute;
+  top: 2710px;
+  left: 1385px;
+}
+
+.dot8 {
+  position: absolute;
+  top: 3390px;
+  left: 35px;
+}

@@ -1,0 +1,47 @@
+.bodyseven-heading {
+  display: flex;
+  justify-content: center;
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 32px;
+  margin-top: 45px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.question-text {
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.7);
+  margin-top: 70px;
+  margin-left: 20px;
+  display: flex;
+  flex: 1;
+  border-top: solid;
+  border-bottom: solid;
+  border-top-color: rgba(217, 217, 217, 1);
+  border-bottom-color: rgba(217, 217, 217, 1);
+  padding: 40px;
+}
+
+.question-layout {
+  display: flex;
+  align-items: center;
+  margin-bottom: -70px;
+}
+
+.arrow {
+  margin-top: 75px;
+  margin-right: 35px;
+  cursor: pointer; 
+}
+
+.arrow:hover {
+  width: 25px;
+}
+
+.starcut-rotate {
+  position: absolute;
+  left: 10px;
+  top: 4595px;
+}

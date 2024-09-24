@@ -1,0 +1,86 @@
+.customer-review {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 700;
+  font-size: 32px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.user-profile {
+  display: flex;
+  margin-top: 45px;
+  gap: 20px;
+}
+
+.comments {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 20px;
+  font-weight: 400;
+  width: 578px;
+  text-align: center;
+}
+
+.comment-username{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.7);
+
+}
+
+.user-career {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: -15px;
+}
+
+.user-space {
+  display: flex;
+  flex-direction: column;
+  width: 620px;
+  height: 391px;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  padding-top: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+}
+
+.comment-layout {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+}
+
+
+.circle-1, .circle-2, .comma-1, .comma-2 {
+  position: absolute;
+}
+
+.circle-1 {
+  top: 3700px;
+  left: 270px;
+}
+
+.circle-2 {
+  top: 3700px;
+  right: 270px;
+}
+
+.comma-1 {
+  top: 3760px;
+  left: 315px;
+}
+
+.comma-2 {
+  top: 3760px;
+  right: 315px;
+}

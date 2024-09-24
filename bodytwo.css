@@ -1,0 +1,70 @@
+.bodytwo-heading {
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 32px;
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: -5.5px;
+  width: 554px;
+}
+
+.bodytwo-textbox {
+  margin-bottom: 50px;
+}
+
+.information {
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  width: 581px;
+  margin-left: 53px;
+}
+
+.checkbox {
+  width: 24px;
+  height: 24px;
+}
+
+
+.text-heading {
+  display: flex;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.secondbody-box {
+  display: flex;
+  align-items: center;
+  gap: 200px;
+  flex: 1;
+  margin-left: 20px;
+}
+
+.dot5 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 1870px;
+  left: 35px;
+}
+
+.dot6 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 1271px;
+  left: 1369px;
+}
+
