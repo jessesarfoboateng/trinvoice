@@ -41,6 +41,14 @@
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   width: 314px;
   height: 500px;
+  cursor: pointer;
+  transition: width 0.6s, height 0.6s;
+}
+
+.icon-box:hover {
+  width: 340px;
+  height: 526px;
+  box-shadow: 8px 10px 13px rgba(0, 0, 0, 0.1);
 }
 
 .icons {

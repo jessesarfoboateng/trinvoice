@@ -52,6 +52,13 @@
   margin-right: 30px;
   margin-bottom: 80px;
   border-radius: 10px;
+  transition: width 0.6s, height 0.6s;
+  cursor: pointer;
+}
+
+.user-space:hover {
+  width: 640px;
+  height: 411px;
 }
 
 .comment-layout {

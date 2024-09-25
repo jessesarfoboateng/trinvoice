@@ -20,20 +20,33 @@ p {
  .signup-button:hover {
   background-color: rgb(61, 61, 114);
   cursor: pointer;
- } 
+  transition: background-color 0.6s;
+ }
+ 
+ .signup-button:active {
+  font-size: 17px;
+  width: 84px;
+  height: 40px;
+ }
  
   .features {
     color: rgba(0, 0, 0, 0.7);
     font-weight: 500;
     margin-right: 30px;
     font-size: 20px;
+    transition: font-size 0.8s;
+    cursor: pointer;
   }
 
   .features:hover {
     color: rgb(67, 67, 239);
-    cursor: pointer;
+    font-size: 23px;
   }
-  
+
+  .features:active {
+    font-size: 17px;
+    color: gray;
+  }
 
   .header {
     display: flex;
