@@ -13,16 +13,17 @@
   font-weight: 700;
   font-size: 24px;
   color: rgba(0, 0, 0, 0.7);
-  margin-top: 70px;
+  margin-top: 60px;
   margin-left: 20px;
+  margin-bottom: -30px;
   display: flex;
   flex: 1;
   border-top: solid;
-  border-bottom: solid;
   border-top-color: rgba(217, 217, 217, 1);
-  border-bottom-color: rgba(217, 217, 217, 1);
-  padding: 40px;
+  padding: 33px;
 }
+
+
 
 .question-layout {
   display: flex;
